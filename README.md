@@ -36,17 +36,17 @@
 
 ### Fitures
 ```
-- crack id teman
-- crack id publik
-- crack id lewat reactions post
-- crack id lewat nama
-- crack id dari postingan group
-- auto login
-- dual login
-Login
- - Cookies
- - password
- - Token Facebook
+> crack id teman
+> crack id publik
+> crack id lewat reactions post
+> crack id lewat nama
+> crack id dari postingan group
+> auto login
+> dual login
+          > Login <
+     • Cookies
+     • password
+     • Token Facebook
 ```
 ### Install
 ```
