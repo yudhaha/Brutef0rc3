@@ -43,9 +43,10 @@
 - crack id dari postingan group
 - auto login
 - dual login
-   - Cookies
-   - password
-   - Token Facebook
+Login
+ - Cookies
+ - password
+ - Token Facebook
 ```
 ### Install
 ```
