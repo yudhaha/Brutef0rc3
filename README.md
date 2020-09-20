@@ -63,7 +63,7 @@ python go.py
 ```
 
 #!/usr/bin/python3
-# coding=utf-8
+# go.py
 
 •••••••••••••••••••••••••••••••••••••••
               go.py
