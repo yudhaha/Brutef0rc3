@@ -1,6 +1,6 @@
 # Brutef0rc3
 <h1 align="center">
-  MBF
+  BFF
 </h1>
 <h4 align="center">
   Brute force Facebook
